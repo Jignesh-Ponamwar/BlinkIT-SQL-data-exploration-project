@@ -1,0 +1,1 @@
+# BlinkIT-SQL-data-exploration-project
