@@ -27,7 +27,7 @@ This project analyzes Blinkit's database by exploring various tables in MYSQL an
 
 - **Source**: Kaggle
 - **File**: `archive`
-- [📄 View the Dataset](Blinkit_Marketing_Performance.csv)
+- [📄 Download the Dataset](archive.zip)
 
 
 <br>
@@ -114,8 +114,7 @@ HAVING avg_delay > 5;
 ```
 <br>
 - 🖼️ Output Screenshots
-
-<br><table>
+<table>
   <tr>
     <td><img src="SS1.png" width="475"/></td>
     <td><img src="SS2.png" width="475"/></td>
