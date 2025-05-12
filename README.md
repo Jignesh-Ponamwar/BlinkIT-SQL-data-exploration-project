@@ -115,9 +115,20 @@ HAVING avg_delay > 5;
 <br>
 - 🖼️ Output Screenshots
 
-| ![Image 1](https://via.placeholder.com/150) | ![Image 2](https://via.placeholder.com/150) | ![Image 3](https://via.placeholder.com/150) |
-|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| ![Image 4](https://via.placeholder.com/150) | ![Image 5](https://via.placeholder.com/150) | ![Image 6](https://via.placeholder.com/150) |
+<br><table>
+  <tr>
+    <td><img src="SS1.png" width="475"/></td>
+    <td><img src="SS2.png" width="475"/></td>
+  </tr>
+  <tr>
+    <<td><img src="SS3.png" width="475"/></td>
+    <td><img src="SS4.png" width="475"/></td>
+  </tr>
+  <tr>
+    <td><img src="SS5.png" width="475"/></td>
+    <td><img src="SS6.png" width="475"/></td>
+  </tr>
+</table>
 
 <br>
 
